@@ -1,0 +1,29 @@
+.navbar{
+    padding-left: 30px;
+    background-color: aliceblue;
+    /* font-family: 'Times New Roman', Times, serif; */
+    /* border: solid; */
+  }
+  /* .bgimg{
+    background-image: url(./mountain.jpg); */
+    /* background-repeat: no-repeat; */
+    /* height: 100vh; */
+    /* border: solid; */
+    /* margin-left: 100px; */
+    /* width: 200px; */
+  /* } */
+  .h2{
+    padding-left: 370px;
+    padding-top: 10px;
+     color:rgb(10, 16, 20);
+  }
+  .search{
+    padding-left: 100px;
+    /* border:solid; */
+    margin-left: 300px;
+    height: 50px;
+    border-radius: 30px;
+  }
+  .button{
+    padding-left: 600px;
+  }

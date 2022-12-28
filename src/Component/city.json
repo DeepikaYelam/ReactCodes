@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name":"Guntur"
+    },
+    {
+        "id":"2",
+        "name":"Krishna"
+    },
+    {
+        "id":"3",
+        "name":"East Godavari"
+    },
+    {
+        "id":"4",
+        "name":"West Godavari"
+    },
+    {
+        "id":"5",
+        "name":"Karnool"
+    },
+    {
+        "id":"6",
+        "name":"Hyderabad"
+    },
+    {
+        "id":"7",
+        "name":"Varangal"
+    },
+    {
+        "id":"8",
+        "name":"Srikakulam"
+    },
+    {
+        "id":"9",
+        "name":"Vizag"
+    },
+    {
+        
+        "name":"Karimnagar"
+    }
+]
